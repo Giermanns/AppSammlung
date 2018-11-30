@@ -1,0 +1,7 @@
+C:\Users\Cedric\source\repos\AppSamlung\AppSamlung\bin\Debug\AppSamlung.exe.config
+C:\Users\Cedric\source\repos\AppSamlung\AppSamlung\bin\Debug\AppSamlung.exe
+C:\Users\Cedric\source\repos\AppSamlung\AppSamlung\bin\Debug\AppSamlung.pdb
+C:\Users\Cedric\source\repos\AppSamlung\AppSamlung\obj\Debug\AppSamlung.csprojAssemblyReference.cache
+C:\Users\Cedric\source\repos\AppSamlung\AppSamlung\obj\Debug\AppSamlung.csproj.CoreCompileInputs.cache
+C:\Users\Cedric\source\repos\AppSamlung\AppSamlung\obj\Debug\AppSamlung.exe
+C:\Users\Cedric\source\repos\AppSamlung\AppSamlung\obj\Debug\AppSamlung.pdb
